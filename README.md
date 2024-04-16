@@ -1,2 +1,3 @@
 # Python-learning
-I will share the python code that i am learning, here.
+I am learning Python code and I plan to share it here.
+Created by: M.Jahanzaib Aftab
